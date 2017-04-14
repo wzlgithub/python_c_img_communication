@@ -1,0 +1,2 @@
+PROJECT(connectServer)
+ADD_SUBDIRECTORY(src)

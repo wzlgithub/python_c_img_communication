@@ -1,0 +1,4 @@
+ADD_EXECUTABLE(sendImage client.cpp clientNet.cpp)
+
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+INCLUDE_DIRECTORIES(../include)
