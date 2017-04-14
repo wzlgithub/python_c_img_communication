@@ -1,0 +1,4 @@
+*.tif
+c_commu/CMakeLists.txt.user
+c_commu/build
+c_commu/src/.client.cpp.swp
